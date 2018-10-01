@@ -102,9 +102,9 @@
       </exclusions>
     </dependency>
     <dependency>
-      <groupId>mysql</groupId>
-      <artifactId>mysql-connector-java</artifactId>
-      <version>8.0.12</version>
+      <groupId>org.robovm</groupId>
+      <artifactId>robovm-llvm</artifactId>
+      <version>1.12.0</version>
     </dependency>
   </dependencies>
   <build>
